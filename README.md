@@ -14,6 +14,15 @@ $ git commit --amend -m "コメント"
 - 一つ前ならこれでOK
 ```
 
+### ・gitをあとから入れるときの流れ
+```
+1, Githubでリポジトリ作成
+2, ローカルのディレクトリで $git init
+３。 git remote add origin https://github.com/nabe-kurage/リポジトリ（Githubのリポジトリに書かれている）　でGithubとつなげる
+4, git commit で変更追加
+５, git push origin でpushする
+```
+
 ## GitHub  
 
 
