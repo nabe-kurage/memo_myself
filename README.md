@@ -5,6 +5,7 @@
 - [Git](#git)  
 - [GitHub](#github)
 - [Markdown](#markdown)
+- [CSS](#css)
   
 ## Git
 ### ・コミットコメントを修正する時
@@ -52,3 +53,12 @@ $ git commit --amend -m "コメント"
 - 半角空白はハイフン(-) を使う
 
 ```
+
+## CSS
+### flex で良く使う表現
+```
+justify-content: space-between;　//左右にアイテムを分ける
+align-items: center; //縦方向真ん中寄せ
+
+```
+
