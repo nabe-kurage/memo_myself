@@ -62,3 +62,8 @@ align-items: center; //縦方向真ん中寄せ
 
 ```
 
+### ボタンなどで選択できないようにする方法
+```
+user-select: none;
+```
+
