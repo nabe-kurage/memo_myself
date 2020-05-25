@@ -67,3 +67,11 @@ align-items: center; //縦方向真ん中寄せ
 user-select: none;
 ```
 
+###  transitionとtransform
+```
+transitionが動きの指定
+transformが変形
+
+transition: margin-right 2s ease-in-out .5s;
+transform: translate(120px, 50%);
+```
