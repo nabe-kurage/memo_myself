@@ -6,6 +6,8 @@
 - [GitHub](#github)
 - [Markdown](#markdown)
 - [CSS](#css)
+- [JS](#js)
+- [その他](#その他)
   
 ## Git
 ### ・コミットコメントを修正する時
@@ -75,3 +77,11 @@ transformが変形
 transition: margin-right 2s ease-in-out .5s;
 transform: translate(120px, 50%);
 ```
+
+## JS
+### Gatsbyの導入部分と仮サーバー立ち上げ
+未
+
+## その他
+### 環境変数の設定方法
+未
