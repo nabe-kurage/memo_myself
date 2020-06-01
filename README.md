@@ -91,3 +91,15 @@ $export PATH="追加したいコマンド検索パス"
 $export -p
 ```
 
+### nvmでのnodeバージョン管理
+```
+nvmはNode.jsの切替ツール
+// 利用可能なバージョンを表
+$ nvm ls-remote
+// インストール済みのバージョン表示
+$ nvm ls
+// バージョン固定
+$ nvm use バージョン
+// 現在使用しているバージョンを確認
+$ nvm current
+```
