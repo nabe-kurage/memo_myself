@@ -80,7 +80,12 @@ transform: translate(120px, 50%);
 
 ## JS
 ### Gatsbyの導入部分と仮サーバー立ち上げ
-未
+
+```
+
+$ gatsby develop
+
+```
 
 ## その他
 ### 環境変数の設定方法
